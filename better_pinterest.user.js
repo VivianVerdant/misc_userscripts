@@ -4,9 +4,10 @@
 // @version      1.0
 // @license      AGPLv3
 // @description  Changes all Pinterest hosted images to use the raw/original version or largest available and open links in new tab
-// @author       jcunews
+// @author       VivianVerdant
 // @match        https://*.pinterest.com/*
 // @grant        GM_openInTab
+// @grant        GM_addStyle
 // @run-at       document-start
 // @downloadURL  https://github.com/VivianVerdant/misc_userscripts/raw/main/better_pinterest.user.js
 // @updateURL    https://github.com/VivianVerdant/misc_userscripts/raw/main/better_pinterest.user.js
