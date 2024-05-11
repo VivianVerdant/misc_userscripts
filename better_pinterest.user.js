@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Better Pinterest
 // @namespace    https://github.com/VivianVerdant/misc_userscripts
-// @version      1.0.2
+// @version      1.0
 // @license      AGPLv3
-// @description  Changes all PInterest hosted images to use the raw/original version or largest available and open links in new tab
+// @description  Changes all Pinterest hosted images to use the raw/original version or largest available and open links in new tab
 // @author       jcunews
 // @match        https://*.pinterest.com/*
 // @grant        GM_openInTab
 // @run-at       document-start
-// @downloadURL  https://github.com/VivianVerdant/misc_userscripts
-// @updateURL    https://github.com/VivianVerdant/misc_userscripts
+// @downloadURL  https://github.com/VivianVerdant/misc_userscripts/raw/main/better_pinterest.user.js
+// @updateURL    https://github.com/VivianVerdant/misc_userscripts/raw/main/better_pinterest.user.js
 // ==/UserScript==
 
 (function() {
